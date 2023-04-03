@@ -3,7 +3,7 @@ import './App.css';
 function App() {
 
   const handleData = () => {
-    undefined.slice(1,2)
+    undefined.slice(1, 2)
   }
 
   return (
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          !
+          !111
         </a>
 
         <div onClick={handleData}>111</div>
